@@ -12,8 +12,10 @@
         "honkoku": "むかしおとこうゐかうふりしてならの/京かすかの里にしるよししてかりに/いにけり",
         "translation-ja": "昔、ある男が初めて冠をかぶり、縁あって、奈良の京、春日の里に狩りに行った。",
         "translation-en": "Once upon a time, a man, newly crowned, went hunting in the village of Kasuga in Nara.",
+	"translation-zh": "从前，有男子，初成年，于奈良的春日村，因缘前去打猎。",
         "translation-ja-natural": "昔、ある男が元服を迎え、縁あって奈良の都、春日の里へ狩りに出かけました。",
-        "translation-en-natural": "Once upon a time, a young man, having just come of age, went hunting in the village of Kasuga in Nara."
+        "translation-en-natural": "Once upon a time, a young man, having just come of age, went hunting in the village of Kasuga in Nara.",
+	"translation-zh-natural": "从前，有一位刚成年的男子，因缘来到奈良的春日村打猎。"
       },
       {
         "date": "20240516,20241017,20241112",
@@ -23,8 +25,10 @@
         "honkoku": "そのさとにいとなまめいたる女/はらからすみけり",
         "translation-ja": "その里に、非常に美しい姉妹が住んでいた。",
         "translation-en": "In that village, there lived two very beautiful sisters.",
+	"translation-zh": "在那村住着非常美丽的姐妹。",
         "translation-ja-natural": "その里には、とても美しい姉妹が住んでいました。",
-        "translation-en-natural": "In that village, there were two sisters who were truly beautiful."
+        "translation-en-natural": "In that village, there were two sisters who were truly beautiful.",
+	"translation-zh-natural": "在那村里，住着两位非常美丽的姐妹。"
       },
       {
         "date": "20240516,20241017,20241112",
@@ -34,8 +38,10 @@
         "honkoku": "このおとこかいまみて/けり",
         "translation-ja": "この男は、のぞき見してしまった。",
         "translation-en": "This man peeked and saw at them.",
+	"translation-zh": "这男子从偷看了。",
         "translation-ja-natural": "この男は、物陰から二人をのぞき見してしまいました。",
-        "translation-en-natural": "The man ended up sneaking a peek at the two from behind something."
+        "translation-en-natural": "The man ended up sneaking a peek at the two from behind something.",
+	"translation-zh-natural": "这个男子从暗处偷看了她们两人。"
       },
       {
         "date": "20240516,20241018,20241112",
@@ -45,8 +51,10 @@
         "honkoku": "おもほえすふるさとにいとはした/なくてありけれは心地まとひにけり/",
         "translation-ja": "思いがけず、旧都には不似合いであったので、心が動揺してしまいました。",
         "translation-en": "It unexpectedly disturbed him because it seemed out of place in the old capital.",
+	"translation-zh": "意外地与古村很不相称，因此心生迷惑。",
         "translation-ja-natural": "思いがけず、この古い都には不似合いなほど美しい女性たちがいたので、心が揺れてしまいました。",
-        "translation-en-natural": "Unexpectedly, he was unsettled, finding these beautiful women strangely out of place in the old capital."
+        "translation-en-natural": "Unexpectedly, he was unsettled, finding these beautiful women strangely out of place in the old capital.",
+	"translation-zh-natural": "她们的美丽古旧的村庄格格不入，男子为此深感意外，以致心神不宁。"
       },
       {
         "date": "20240516,20241018,20241112",
@@ -56,8 +64,10 @@
         "honkoku": "男のきたりけるかりきぬのすそをきりて/うたをかきてやる",
         "translation-ja": "男は着ていた狩衣の裾を切って、歌を書いて贈った。",
         "translation-en": "The man cut the hem of the hunting robe he was wearing, wrote a poem on it, and sent it as a gift.",
+	"translation-zh": "男子割下穿着的狩衣的下摆，写下和歌赠与。",
         "translation-ja-natural": "男は着ていた狩衣の裾を切り取り、そこに歌を書いて贈りました。",
-        "translation-en-natural": "The man cut off the hem of his hunting robe, wrote a poem on it, and sent it as a gift."
+        "translation-en-natural": "The man cut off the hem of his hunting robe, wrote a poem on it, and sent it as a gift.",
+	"translation-zh-natural": "男子割下身着的狩衣的下摆，在上面写上和歌赠与姐妹二人。"
       },
       {
         "date": "20240516,20241018,20241112",
@@ -67,8 +77,10 @@
         "honkoku": "そのおとこしのふすり/のかりきぬをなむきたりける/s6r/",
         "translation-ja": "その男は、信夫摺の狩衣を着ていた。",
         "translation-en": "The man was wearing a hunting coat of Shinobuzuri.",
+	"translation-zh": "那男子穿着信夫摺的狩衣。",
         "translation-ja-natural": "その男は、信夫摺の狩衣を着ていました。",
-        "translation-en-natural": "The man was wearing a hunting robe in the Shinobuzuri pattern."
+        "translation-en-natural": "The man was wearing a hunting robe in the Shinobuzuri pattern.",
+	"translation-zh-natural": "那男子身着信夫摺模样的狩衣，信夫摺的布料上是忍草所擦出的迷乱的花纹。"
       },
       {
         "date": "20240516,20241018,20241112",
@@ -78,8 +90,10 @@
         "honkoku": "かすかののわかむらさきのすり衣/しのふのみたれかきりしられす/",
         "translation-ja": "春日野の若紫で染めた衣、忍ぶ恋の乱れは限りがわかりません。",
         "translation-en": "The robe dyed with young purple from Kasuga Field, like the disorder of concealed love, knows no limits.",
+	"translation-zh": "春日野的/若紫草的衣裳/忍草纹（暗恋之情）乱得/不知止境。",
         "translation-ja-natural": "春日野の若紫で染めた衣のように、美しいあなた方にお逢いして、私の心は、この紫の信夫摺の模様のように、限りなく乱れています。",
-        "translation-en-natural": "Meeting you, as beautiful as robes dyed in the young purple of Kasuga Fields, my heart is endlessly tangled, just like the patterns of purple Shinobuzuri."
+        "translation-en-natural": "Meeting you, as beautiful as robes dyed in the young purple of Kasuga Fields, my heart is endlessly tangled, just like the patterns of purple Shinobuzuri.",
+	"translation-zh-natural": "春日野的若紫草染成的衣裳般美丽的你们，让我的暗恋之情乱得像是衣裳上的用忍草擦出的信夫摺一般没有止境。"
       },
       {
         "date": "20240517,20241018,20241112",
@@ -89,8 +103,10 @@
         "honkoku": "となむをいつきていひやりける",
         "translation-ja": "と、追いついて言ってさしあげました。",
         "translation-en": "that she caught up with him and said.",
+	"translation-zh": "追来，说道。",
         "translation-ja-natural": "そう言って、すぐに追いついて伝えました。",
-        "translation-en-natural": "With that, she quickly caught up to him and conveyed her words."
+        "translation-en-natural": "With that, she quickly caught up to him and conveyed her words.",
+	"translation-zh-natural": "她追上去，说道。"
       },
       {
         "date": "20240517,20241018",
@@ -100,8 +116,10 @@
         "honkoku": "ついて/おもしろき事ともやおもひけん/s6l/",
         "translation-ja": "ついで、おもしろいこととも思っていました。",
         "translation-en": "In addition, she found it amusing.",
+	"translation-zh": "同时也觉得（此为）趣事。",
         "translation-ja-natural": "そのうえ、興味深いことだとも思っていました。",
-        "translation-en-natural": "Moreover, she found it intriguing."
+        "translation-en-natural": "Moreover, she found it intriguing.",
+	"translation-zh-natural": "同时，她也觉得这是一件趣事。（附和道）"
       },
       {
         "date": "20240517,20241018",
@@ -111,8 +129,10 @@
         "honkoku": "みちのくのしのふもちすりたれゆへに/みたれそめにしわれならなくに/",
         "translation-ja": "陸奥のしのぶもじ摺り、誰のせいで、乱れだしたのでしょうか、この私ではなくて、...",
         "translation-en": "Whose fault is it that the Shinobuzuri of Michinoku has become disturbed? It's not mine, is it?",
+	"translation-zh": "陸奥的/忍草擦成的衣裳/因为谁/染花了？（因为谁而染花了的）/明明不是我吧？",
         "translation-ja-natural": "陸奥のしのぶもじ摺りのように、誰のせいで心が乱れてしまったのでしょうか。私のせいではなくて...。",
-        "translation-en-natural": "Like the Shinobuzuri of Michinoku, whose fault is it that my heart has become disturbed? Surely, it is not mine..."
+        "translation-en-natural": "Like the Shinobuzuri of Michinoku, whose fault is it that my heart has become disturbed? Surely, it is not mine...",
+	"translation-zh-natural": "究竟是谁的错，让你（我）像是陸奥的忍草擦成的衣裳一般心乱如麻？明明不是我（的错）吧？"
       },
       {
         "date": "20240517,20241018",
@@ -122,8 +142,10 @@
         "honkoku": "といふうたの心はへなり",
         "translation-ja": "というのが、歌の本心である。",
         "translation-en": "That is the true meaning of the poem.",
+	"translation-zh": "所谓和歌之真谛也。",
         "translation-ja-natural": "これが、この和歌の本意なのです。",
-        "translation-en-natural": "That's the true intention behind the poem."
+        "translation-en-natural": "That's the true intention behind the poem.",
+	"translation-zh-natural": "这就是这首和歌的真谛。"
       },
       {
         "date": "20240517,20241018",
@@ -133,8 +155,10 @@
         "honkoku": "むかし人はかく/いちはやきみやひをなんしける/s7l/",
         "translation-ja": "昔の人々は、こういう即興的な趣きあることをしていました。",
         "translation-en": "People of the past performed such prompt, passionate elegance.",
+	"translation-zh": "昔人此般行即兴（热烈）且风雅之事。",
         "translation-ja-natural": "昔の人々は、このような即興的で風情のあることをしていました。",
-        "translation-en-natural": "People in the past used to engage in such spontaneous and refined expressions of elegance."
+        "translation-en-natural": "People in the past used to engage in such spontaneous and refined expressions of elegance.",
+	"translation-zh-natural": "过去的人就是这样即兴地做出如此热烈而风雅的事的。"
       }
     ]
   },
