@@ -132,7 +132,7 @@
 	"translation-zh": "陸奥的/忍草擦成的衣裳/因为谁/染花了？（因为谁而染花了的）/明明不是我吧？",
         "translation-ja-natural": "陸奥のしのぶもじ摺りのように、誰のせいで心が乱れてしまったのでしょうか。私のせいではなくて...。",
         "translation-en-natural": "Like the Shinobuzuri of Michinoku, whose fault is it that my heart has become disturbed? Surely, it is not mine...",
-	"translation-zh-natural": "究竟是谁的错，让你（我）像是陸奥的忍草擦成的衣裳一般心乱如麻？明明不是我（的错）吧？"
+	"translation-zh-natural": "究竟是谁的错，让你（我）像是陸奥的忍草擦成的衣裳一般心乱？明明不是我（的错）吧？"
       },
       {
         "date": "20240517,20241018",
@@ -175,8 +175,10 @@
         "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man.",
+	"translation-zh": "曾有男子。",
         "translation-ja-natural": "昔、ある男がいました。",
-        "translation-en-natural": "Once upon a time, there was a man."
+        "translation-en-natural": "Once upon a time, there was a man.",
+	"translation-zh-natural": "从前，有一位男子。"
       },
       {
         "date": "20240520,20241021,20250221",
@@ -186,8 +188,10 @@
         "honkoku": "ならの京ははな/れこの京は人のいゑまたさたまらさり/ける時に西の京に女ありけり",
         "translation-ja": "奈良の京は離れ、この京は人の家がまだ定まらなかった時に、西の京に女がいました。",
         "translation-en": "The capital of Nara had left, and at the time when people's houses were not yet settled in this capital, there was a woman in the western part of the capital.",
+	"translation-zh": "奈良之京迁都，此京尚未有人家定居时，西之京有女子。",
         "translation-ja-natural": "奈良の都が移り、この新しい都にはまだ人々の家が定まっていなかった頃、西の京に一人の女性がいました。",
-        "translation-en-natural": "After the capital moved from Nara, when people had yet to settle in their new homes, there was a woman living in the western part of the capital."
+        "translation-en-natural": "After the capital moved from Nara, when people had yet to settle in their new homes, there was a woman living in the western part of the capital.",
+	"translation-zh-natural": "奈良的京城迁都后，新城尚未有人家定居的时候，西京有一位女子。"
       },
       {
         "date": "20240520,20241021,20250221",
@@ -197,8 +201,10 @@
         "honkoku": "かの/女世人にはまされりけり",
         "translation-ja": "その女は、世間の人よりも、すぐれていました。",
         "translation-en": "That woman was exceptional compared to ordinary people.",
+	"translation-zh": "那女子胜过世人。",
         "translation-ja-natural": "その女性は、世間の人よりも、すぐれていました。",
-        "translation-en-natural": "That woman was exceptional compared to ordinary people."
+        "translation-en-natural": "That woman was exceptional compared to ordinary people.",
+	"translation-zh-natural": "那位女子非常出众。",
       },
       {
         "date": "20240520,20241021",
@@ -208,8 +214,10 @@
         "honkoku": "その人かたち/よりは心なむまさりたりける",
         "translation-ja": "その人は、外見よりは心がまさっていました。",
         "translation-en": "That person's heart was superior to their appearance.",
+	"translation-zh": "那人心胜于形。",
         "translation-ja-natural": "その女性は、見た目よりも心が美しかったのです。",
-        "translation-en-natural": "Her heart was more beautiful than her outward appearance."
+        "translation-en-natural": "Her heart was more beautiful than her outward appearance.",
+	"translation-zh-natural": "那位女子的心灵更胜过她的外貌。"
       },
       {
         "date": "20240520,20241021",
@@ -219,7 +227,10 @@
         "honkoku": "ひとりのみ/s7l/もあらさりけらし",
         "translation-ja": "独身でもなかったようでした。",
         "translation-en": "It seems that she wasn't single.",
-        "translation-en-natural": "She didn't seem to be single."
+	"translation-zh": "似乎并非独身。",
+        "translation-en-natural": "She didn't seem to be single.",
+	"translation-ja-natural": "彼女は独身ではなかったようです。",
+	"translation-zh-natural": "她似乎并非单身。"
       },
       {
         "date": "20240520,20241022",
@@ -229,8 +240,10 @@
         "honkoku": "それをかのまめおとこ/うちものかたらひてかへりきていかか/おもひけん時はやよひのついたち雨そを/ふるにやりける/",
         "translation-ja": "その女にかの誠実な男が、物語を語り合って、家に帰ってきて、何を思ったのだろうか、3月の1日、雨がしとしと降る日に、歌を詠んで贈りました。",
         "translation-en": "A honest man told her a story, and when he came back home, he thought about her. On the first day of March, a rainy day, he wrote a poem to her.",
+	"translation-zh": "将那些说给那位真诚的男子，归来后不知怎地，时乃三月一日，细雨绵绵之际，寄赠。",
         "translation-ja-natural": "その誠実な男は、その女性と語り合ったあと、家に帰って何を思ったのでしょうか、3月1日のしとしとと雨が降る日に、和歌を詠んで彼女に贈りました。",
-        "translation-en-natural": "I did not know what led him to do so, but on the first day of March, as the rain gently fell, the sincere man composed a waka and sent it to her."
+        "translation-en-natural": "I did not know what led him to do so, but on the first day of March, as the rain gently fell, the sincere man composed a waka and sent it to her.",
+	"translation-zh-natural": "那位真诚的男子与她交谈后回家，不知怎么地在三月初一细雨绵绵之际，男子寄赠了一首和歌。"
       },
       {
         "date": "20240520,20241022",
@@ -240,8 +253,10 @@
         "honkoku": "おきもせすねもせてよるを明しては/春のものとてなかめくらしつ/s8r/",
         "translation-ja": "起きもせず、寝もせずに夜を明かしては、春のものだと思いながら眺め暮らしました。",
         "translation-en": "Neither awake nor asleep, I spent the night thinking them to be of spring, gazing upon them.",
+	"translation-zh": "亦不起/亦不眠，彻夜/到天明/春之物/眺望（沉思）终日",
         "translation-ja-natural": "眠ることもできず、ただ夜を明かし、春の長雨を眺めながら物思いに沈んでいました。",
-        "translation-en-natural": "Unable to sleep, I spent the night simply gazing at the long spring rains, lost in thought."
+        "translation-en-natural": "Unable to sleep, I spent the night simply gazing at the long spring rains, lost in thought.",
+	"translation-zh-natural": "我整夜卧床未眠，整日眺望着春天的景致，陷入了沉思。"
       }
     ]
   },
