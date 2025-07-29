@@ -273,8 +273,10 @@
         "honkoku": "むかしおとこありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man.",
+	"translation-zh": "曾有男子。",
         "translation-ja-natural": "昔、男がいました。",
-        "translation-en-natural": "Once upon a time, there was a man."
+        "translation-en-natural": "Once upon a time, there was a man.",
+	"translation-zh-natural": "从前，有一位男子。"
       },
       {
         "date": "20240521,20241029,20241109",
@@ -284,7 +286,10 @@
         "honkoku": "けさうしける女/のもとにひしきもといふ物をやるとて/",
         "translation-ja": "思いを懸けている女のもとに、ひじき藻というものをやると言って、",
         "translation-en": "He intended to send hijiki seaweed to the woman he longed for.",
-        "translation-en-natural": "He planned to send some hijiki seaweed to the woman he was infatuated with."
+	"translation-zh": "欲向思慕的女子之处，寄赠名为羊栖菜（hijiki-mo）之物。",
+        "translation-en-natural": "He planned to send some hijiki seaweed to the woman he was infatuated with.",
+	"translation-ja-natural": "思いを寄せている女性に、ひじき藻というものを贈ろうとして、",
+	"translation-zh-natural": "他打算寄送名为羊栖菜（hijiki-mo）的海藻给他思慕的女子。"
       },
       {
         "date": "20240521,20241029,20241109,20250222",
@@ -294,8 +299,10 @@
         "honkoku": "思ひあらはむくらの宿にねもしなん/ひしきものにはそてをしつつも/",
         "translation-ja": "思いがあるなら、葎の宿にきっと寝よう。敷くものには袖をしき続けて。",
         "translation-en": "If you have feelings, we shall indeed sleep in an overgrown hut, continuously using our sleeves as bedding.",
+	"translation-zh": "若有情/葎之宿/亦可寝/于席（羊栖菜）上/再添袖",
         "translation-ja-natural": "もしあなたに思いがあるのなら、草深い宿で、袖を敷いて共に寝ましょう。",
-        "translation-en-natural": "If you truly care for me, let's lie together in the overgrown hut, using our sleeves as bedding."
+        "translation-en-natural": "If you truly care for me, let's lie together in the overgrown hut, using our sleeves as bedding.",
+	"translation-zh-natural": "你若有情的话，就让我们在葎草茂盛的陋屋里，在席上再铺袖子共寝吧。"
       },
       {
         "date": "20240521,20241111",
@@ -305,8 +312,10 @@
         "honkoku": "二条のきさきのまたみかとにもつかう/まつり給はてたた人にておはしける/ときのことなり/s9r/",
         "translation-ja": "二条の后がまだ帝にも仕えておらず、普通の人でいらした時のことでした。",
         "translation-en": "This is the time when the Empress of Nijo was not yet serving the Emperor and was just a person.",
+	"translation-zh": "乃二条之后尚未仕于帝，仅为常人时之事。",
         "translation-ja-natural": "二条の后はまだ天皇に仕えておらず、ただの人として暮らしていた時のことでした。",
-        "translation-en-natural": "This was the time when the Empress of Nijo had not yet served the Emperor and was just an ordinary woman."
+        "translation-en-natural": "This was the time when the Empress of Nijo had not yet served the Emperor and was just an ordinary woman.",
+	"translation-zh-natural": "这是二条后尚未侍奉天皇，还是普通人的时候的故事。"
       }
     ]
   },
