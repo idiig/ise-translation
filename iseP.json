@@ -554,8 +554,10 @@
         "honkoku": "昔おとこありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man.",
+	"translation-zh": "曾有男子。",
         "translation-ja-natural": "昔、男がいました。",
-        "translation-en-natural": "Once upon a time, there was a man."
+        "translation-en-natural": "Once upon a time, there was a man.",
+	"translation-zh-natural": "从前，有一位男子。"
       },
       {
         "date": "20240525,20241114",
@@ -565,8 +567,10 @@
         "honkoku": "をんなのえうまし/かりけるを年をへてよはひわたりける/をからうしてぬすみ出ていとくらきにき/けり",
         "translation-ja": "手に入らない女を、何年にも渡って、夜這いをし続けて、漸く盗み連れ出して、たいそう暗いところ逃げて来ました。",
         "translation-en": "For many years, he continued to sneak around at night to find a woman who no one couldn't get, until he finally stole her away and ran away to a very dark place.",
+	"translation-zh": "女子（求而）不得者，历经（多）年夜访，终于偷出，来到很黑的（地方）。",
         "translation-ja-natural": "手に入れられそうもない女性に、何年もわたって夜な夜な通い続け、やっとのことで連れ出して、暗闇の中へと逃げて行ったのでした。",
-        "translation-en-natural": "For years, he kept sneaking around at night to see a woman he could never quite have, until he finally managed to steal her away and escape with her into the darkness."
+        "translation-en-natural": "For years, he kept sneaking around at night to see a woman he could never quite have, until he finally managed to steal her away and escape with her into the darkness.",
+	"translation-zh-natural": "有一个女人，他夜访了多年，终于成功将那位女子带了出来，逃到了黑处。"
       },
       {
         "date": "20240525,20241114",
@@ -576,8 +580,10 @@
         "honkoku": "あくた河といふかはをゐていきけれ/はくさのうへにをきたりける露をかれ/はなにそとなんおとこにとひける",
         "translation-ja": "芥河という川にその女を連れて行くと、草の上に置かれた露を見て、その女は「これは何でしょうか」と、男に尋ねました。",
         "translation-en": "Taking the woman to the Akutagawa River, she saw the dew on the grass and asked the man what it was.",
+	"translation-zh": "带到叫做芥河的河后，草上留着的露珠，“那是什么？”问了男子",
         "translation-ja-natural": "芥川という川にその女を連れて行くと、彼女は草に降りた露を見て、「これは何ですか？」と男に尋ねました。",
-        "translation-en-natural": "When he took her to the Akutagawa River, she saw the dew resting on the grass and asked him, 'What is this?'"
+        "translation-en-natural": "When he took her to the Akutagawa River, she saw the dew resting on the grass and asked him, 'What is this?'",
+	"translation-zh-natural": "男子带女子到一条芥河的河时，女子看到草上有露珠，便问男子：“那是什么？”"
       },
       {
         "date": "20240525,20241114",
@@ -587,8 +593,10 @@
         "honkoku": "行/さきおほく夜もふけにけれはおにある所/ともしらてかみさへいといみしうなり/雨もいたうふりけれはあはらなるくらに/s13r/女をはおくにをしいれておとこゆみや/なくひをおひてとくちにをり",
         "translation-ja": "進む先は分からず、夜も更けていたので、鬼がいるとも知らず、雷が鳴り響く中、雨も激しく降っていたので、男は、女を蔵の奥に隠し入れ、弓と槍を持って、戸口に立っていました。",
         "translation-en": "Not knowing where to go, and it was getting late at night, so he did not know that there was a demon, and the thunder was so loud that it was raining, and he was standing at the door with a bow and a spear, hiding the woman in the back of the warehouse.",
+	"translation-zh": "去处众多，夜也深了，因此，不知（此为）有鬼之地，连雷（神）也轰鸣，雨也下得很大，于是，在破旧的仓库里，将女子藏在深处，男子，背着弓和矛，站在门口。",
         "translation-ja-natural": "男はまだ逃げなければならず、夜もすっかり更けていた。鬼が住んでいるとは知らずに、雷が激しく鳴り、雨がざあざあ降り出したので、途中にあった見張りのいない開け放しの蔵に女を奥へ隠し入れ、男は弓と矢筒を背負って戸口で見張っていました。",
-        "translation-en-natural": "The man still had to keep running, and as the night wore on, he didn't realize he was near a demon's lair. With thunder rumbling and rain pouring down, he hid the woman in the back of an abandoned warehouse and stood guard at the entrance, armed with his bow and quiver."
+        "translation-en-natural": "The man still had to keep running, and as the night wore on, he didn't realize he was near a demon's lair. With thunder rumbling and rain pouring down, he hid the woman in the back of an abandoned warehouse and stood guard at the entrance, armed with his bow and quiver.",
+	"translation-zh-natural": "行路多歧，但夜色已深。他不知道所在之处有鬼。雷声大作，雨也下得很大，他便将女子藏在一间废弃仓库的深处，自己则背着弓与矛，守在门口。"
       },
       {
         "date": "20240525,20241114",
@@ -598,8 +606,10 @@
         "honkoku": "はや夜/もあけなんとおもひつつゐたりけるに/おにはやひとくちにくひてけり",
         "translation-ja": "早く夜も明けないものだろうか、と思っていたところに、鬼が女を一口で食べてしまいました。",
         "translation-en": "He was wishing the night over soon, and then the demon ate the woman in one bite.",
+	"translation-zh": "盼着夜早些过去的时候，鬼已一口吃掉。",
         "translation-ja-natural": "早く夜が明ければいいのに、と待っているうちに、鬼がたちまち女を一口で食べてしまいました。",
-        "translation-en-natural": "He was hoping for dawn to come soon, and in that moment, the demon suddenly devoured the woman in a single bite."
+        "translation-en-natural": "He was hoping for dawn to come soon, and in that moment, the demon suddenly devoured the woman in a single bite.",
+	"translation-zh-natural": "就在他盼望着夜早点过去的时候，然而鬼却一口将女子吃了。"
       },
       {
         "date": "20240525,20241114",
@@ -609,8 +619,10 @@
         "honkoku": "あなやと/いひけれと神なるさはきにえきかさり/けり",
         "translation-ja": "「ああ」と言いましたが、雷の騒ぎで聞こえなかった。",
         "translation-en": "She said, 'Oh,' but he could not hear it because of the noise of the thunder.",
+	"translation-zh": "道“啊”，但因雷声的轰鸣，没能听到。",
         "translation-ja-natural": "「ああ」と言ったものの、雷の騒がしい音にかき消されて、男の耳には届きませんでした。",
-        "translation-en-natural": "She said, 'Oh,' but her voice was drowned out by the loud thunder, and he couldn't hear it."
+        "translation-en-natural": "She said, 'Oh,' but her voice was drowned out by the loud thunder, and he couldn't hear it.",
+	"translation-zh-natural": "她叫道：“啊”，但因雷声太大，男子没有听到。",
       },
       {
         "date": "20240525,20241114",
@@ -620,8 +632,10 @@
         "honkoku": "やうやう夜もふけゆくにみれは/ゐてこしをんなもなし",
         "translation-ja": "やがて夜が明けてくると、見ると、連れて来た女もいない。",
         "translation-en": "As the night gradually dawned, he found that the woman he had brought was gone.",
+	"translation-zh": "渐渐地夜色亮起来时，一看，带来的女子也不在。",
         "translation-ja-natural": "だんだん待ち望んでいた夜明けが来て、その薄明かりの中で見回すと、倉はがらんとしていて、昨夜連れてきた女の姿も見当たらなかった。",
-        "translation-en-natural": "As the long-awaited dawn slowly broke, he looked around in the faint light and saw that the warehouse was empty, with no sign of the woman he had brought the night before."
+        "translation-en-natural": "As the long-awaited dawn slowly broke, he looked around in the faint light and saw that the warehouse was empty, with no sign of the woman he had brought the night before.",
+	"translation-zh-natural": "夜渐渐亮起来时，他环顾四周，发现带来的女子已不在了。"
       },
       {
         "date": "20240525,20241114",
@@ -631,8 +645,10 @@
         "honkoku": "あしすりを/してなけともかひなし/",
         "translation-ja": "じだんだを踏んで泣いても仕方がない。",
         "translation-en": "There was no use crying and stamping his feet.",
+	"translation-zh": "跺脚哭泣，但没有意义。",
         "translation-ja-natural": "足を引きずりながら泣いても、もうどうしようもない。",
-        "translation-en-natural": "Dragging his feet and crying, there was nothing he could do."
+        "translation-en-natural": "Dragging his feet and crying, there was nothing he could do.",
+	"translation-zh-natural": "他跺脚哭泣，但已无济于事。",
       },
       {
         "date": "20240525,20241114",
@@ -642,8 +658,10 @@
         "honkoku": "しら玉かなにそと人のとひしとき/s13l/露とこたへてきえなましものを/",
         "translation-ja": "白玉か、何かと人が尋ねた時、露と答え、私も消えてしまっていたらよかっただろうに。",
         "translation-en": "When someone asked, 'Is it a white ball?' and I should have answered 'It's dew,' and I wish that I also have disappeared.'",
+	"translation-zh": "“白玉吗/（还是）什么”，人/问的时候/回答“露水”后/消失就好了，但。。。",
         "translation-ja-natural": "白玉か何かと人が尋ねた時、露だと答えて、私も露のように消えてしまえたらよかったのに。そうすれば、こんな悲しみもなかっただろうに。",
-        "translation-en-natural": "When my beloved asked, \"Is it a white gem, or what could it be?\" I wished I had replied, \"It’s dew,\" and vanished like the dew myself. Then perhaps I wouldn't have to feel such sorrow."
+        "translation-en-natural": "When my beloved asked, \"Is it a white gem, or what could it be?\" I wished I had replied, \"It’s dew,\" and vanished like the dew myself. Then perhaps I wouldn't have to feel such sorrow.",
+	"translation-zh-natural": "当有人问“是白玉吗？”，我回答“是露水”，然后就杂这么消失的话，那该多好啊。"
       },
       {
         "date": "20240525,20241114",
@@ -653,8 +671,10 @@
         "honkoku": "これは二条のきさきのいとこの女御の御/もとにつかうまつるやうにてゐ給へりけ/るをかたちのいとめてたくおはしけれは/ぬすみておひていてたりけるを御せう/とほりかはのおととたらうくにつねの/大納言また下らうにて内へまいり給ふに/いみしうなくひとあるをききつけてとと/めてとりかへしたまうてけり",
         "translation-ja": "これは、二条の后のいとこの女御のもとに仕えていたので、美しい女性であったため、盗んで連れ出してしまったので、御所の大臣である堀川の大臣、太郎国経の大納言が、まだ下級の身分で内裏に出入りしていた時に、泣いている人がいるのを聞いて、取り返しに行きました。",
         "translation-en": "This is because he had been serving the Empress of Nijo's cousin, and he had stolen and taken her away because she was so beautiful. When the minister of Horikawa, the grand minister of Taro Kunitsune, who was still of a lower rank, heard that someone was crying, he went to get her back.",
+	"translation-zh": "这是在二条后在堂姊妹女御身边服侍时，身姿非常美丽，因此偷偷背着离开。堀川的大臣、太郎国经大纳言，还是作为下级出入皇宫时，听到有人在大声哭泣，制止并带了回来。",
         "translation-ja-natural": "これは、二条の后が従姉妹にあたる女御のもとに仕えるような形でいらしたが、后がたいそう美しかったため、男が恋い慕い、盗み出して連れ去ったという話です。ところが、そのときまだ低い位にあった堀川の大臣である基経や、長男の国経大納言が参内している折に、泣き叫ぶ声を聞きつけ、男の連れ去りを引き止め、后を取り戻したのです。",
-        "translation-en-natural": "This story tells of how the Empress of Nijo, serving under her cousin, the Lady of the Court, was so beautiful that a man fell deeply in love with her and spirited her away. However, upon hearing cries, her elder brother, Minister Horikawa Mototsune, along with his eldest son, Major Counselor Kunitsune, who were of lower rank at the time, intervened and managed to recover her."
+        "translation-en-natural": "This story tells of how the Empress of Nijo, serving under her cousin, the Lady of the Court, was so beautiful that a man fell deeply in love with her and spirited her away. However, upon hearing cries, her elder brother, Minister Horikawa Mototsune, along with his eldest son, Major Counselor Kunitsune, who were of lower rank at the time, intervened and managed to recover her.",
+	"translation-zh-natural": "这是关于二条后在堂姊妹女御身边服侍时的故事。她非常美丽，因此有一位男子偷偷将她带出了宫。不过，当时身为下级的堀川大臣和他的长子国经大纳言听到她的哭声，便介入并将她带回了宫。"
       },
       {
         "date": "20240525,20241114",
@@ -664,8 +684,10 @@
         "honkoku": "それをかく/s14r/おにとはいふ也けり",
         "translation-ja": "その事件をこのように鬼の仕業だと言ったのでした。",
         "translation-en": "This is how the incident was described as the work of a demon.",
+	"translation-zh": "这般称为鬼。",
         "translation-ja-natural": "その出来事を、このように鬼の仕業だと語ったのでした。",
-        "translation-en-natural": "This is how the event was described as the work of a demon."
+        "translation-en-natural": "This is how the event was described as the work of a demon.",
+	"translation-zh-natural": "所以，这件事被称为鬼的所作所为。"
       },
       {
         "date": "20240525,20241114",
@@ -675,8 +697,10 @@
         "honkoku": "またいとわかうて/きさきのたたにおはしけるときとや/s14l/",
         "translation-ja": "まだ二条の后は若くて、普通の身分でいらしたときのことでしたということです。",
         "translation-en": "This was when the Empress of Nijo was still young and was just a person.",
+	"translation-zh": "听说（这是）还非常年轻的，（二条）皇后只是普通（人）的时候。",
         "translation-ja-natural": "まだ二条の后がずっと若く、入内などしていなかった頃のことだそうです。",
-        "translation-en-natural": "This was back when the Empress of Nijo was still very young and had not yet entered the court."
+        "translation-en-natural": "This was back when the Empress of Nijo was still very young and had not yet entered the court.",
+	"translation-zh-natural": "据说这是二条后还非常年轻，尚为普通人的时候的事。"
       }
     ]
   },
