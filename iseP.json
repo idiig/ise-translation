@@ -717,8 +717,10 @@
         "honkoku": "むかし男ありけり",
         "translation-ja": "昔、男がいました。",
         "translation-en": "Once upon a time, there was a man.",
+	"translation-zh": "曾有男子。",
         "translation-ja-natural": "昔、男がいました。",
-        "translation-en-natural": "Once upon a time, there was a man."
+        "translation-en-natural": "Once upon a time, there was a man.",
+	"translation-zh-natural": "从前，有一位男子。"
       },
       {
         "date": "20240526",
@@ -728,8 +730,10 @@
         "honkoku": "京にありわひて/あつまにいきけるにいせおはりのあはひ/のうみつらをゆくになみのいとしろくた/つを見て/",
         "translation-ja": "京に居辛くなって、東国に行ったが、伊勢と尾張の国境の海岸を行く時に、波がとても白く立つのを見て、",
         "translation-en": "He was tired of living in Kyoto and went to the east, and when he went to the coast of the border between Ise and Owari, he saw the waves standing very white,",
+	"translation-zh": "京都呆厌，向东去，走在伊势、尾张的国境的海岸上行走时，看见波浪非常白。",
         "translation-ja-natural": "京の暮らしに疲れ、東国へ向かう途中、伊勢と尾張の国境の海辺を行くと、波が非常に白く立ち上がっているのを目にしました。",
-        "translation-en-natural": "He grew weary of living in Kyoto and headed east. While traveling along the coast at the border between Ise and Owari, he saw the waves rising brilliantly white."
+        "translation-en-natural": "He grew weary of living in Kyoto and headed east. While traveling along the coast at the border between Ise and Owari, he saw the waves rising brilliantly white.",
+	"translation-zh-natural": "他厌倦了京都的生活，向东而行。当他走在伊势和尾张的国境海岸时，看见波浪非常白。"
       },
       {
         "date": "20240526",
@@ -737,10 +741,12 @@
         "poem": "いとゞしく/過ぎ行く方の/恋しきに/うらやましくも/かへる浪かな",
         "kana": "いとどししく/すぎゆくかたの/こいしきに/うらやましくも/かへるなみかな",
         "honkoku": "いととしく過行かたの恋しきに/うらやましくもかへるなみかな/",
-        "translation-ja": "このようにして過ぎ去って行くと、京の都の方が恋しくなるのに、うらやましいことに、立ち帰る白波よ",
+        "translation-ja": "このようにして過ぎ去って行くと、京の都の方が恋しくなるのに、うらやましいことに、立ち帰る白波よ？",
         "translation-en": "As it passes by like this, I miss the capital city, and it is enviable, the white waves that return.",
+	"translation-zh": "（明明原来就已经）越来越/走过的方向的/怀念的（地方），向着（那里）/令人羡慕的是/归来的浪啊",
         "translation-ja-natural": "こうして過ぎ去っていくと、京の都が恋しくなるのに、うらやましいことだなあ、戻っていく白波よ。",
-        "translation-en-natural": "As I move further away, I find myself longing for the capital. How envious I am of the white waves that return."
+        "translation-en-natural": "As I move further away, I find myself longing for the capital. How envious I am of the white waves that return.",
+	"translation-zh-natural": "向着走过的方向的那个我本就越来越怀念的地方归去的白浪啊，让我更羡慕了。",
       },
       {
         "date": "20240526",
@@ -750,8 +756,10 @@
         "honkoku": "となんよめりける/s15l/",
         "translation-ja": "と詠んだ。",
         "translation-en": "He sang.",
+	"translation-zh": "吟咏道。",
         "translation-ja-natural": "と詠んだのでした。",
-        "translation-en-natural": "He sang."
+        "translation-en-natural": "He sang.",
+	"translation-zh-natural": "他吟咏道。"
       }
     ]
   },
